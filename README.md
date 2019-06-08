@@ -1,2 +1,1 @@
-# first-repo
-My first repository
+Java
